@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Node.js, Express, and MongoDB backend for a finance dashboard with RBAC",
+  "description": "Node.js, Express, and MongoDB backend for a finance dashboard",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
